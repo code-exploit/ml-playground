@@ -1,16 +1,16 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ranjan/playground/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/code-exploit/ml-playground/main/app.py)
 
-# Machine Learning Playground ⚗️👨🏻‍💻
+# Machine Learning Playground ⚗️👨🏻‍💻 (An Extension of Original Version from [Ranjan-Das-cloud](https:github.com/ranjan-das-cloud/machine-learning-playground) )
 
 Machine Learning Playground is a **streamlit** application that allows you to tinker with machine learning models from your browser.
 
-So if you're a data science practitioner you should definitely try it out 😉
+The repository is made by [Ranjan Das](https:github.com/ranjan-das-cloud/machine-learning-playground) for hosting purpose. 😉
 
-_This app is made after inspired by the great Tensorflow [playground](https://playground.tensorflow.org/)._
+_This app is made by [Ranjan Das](https:github.com/ranjan-das-cloud/machine-learning-playground)._
 
 ## Demo
 
-Click [here](https://mlplayground.herokuapp.com/)
+Click [here](https://share.streamlit.io/code-exploit/ml-playground/main/app.py)
 
 ## How does it work ?
 
