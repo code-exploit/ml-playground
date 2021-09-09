@@ -6,7 +6,7 @@ Machine Learning Playground is a **streamlit** application that allows you to ti
 
 So if you're a data science practitioner you should definitely try it out 😉
 
-_This app is inspired by the great Tensorflow [playground](https://playground.tensorflow.org/)._
+_This app is made after inspired by the great Tensorflow [playground](https://playground.tensorflow.org/)._
 
 ## Demo
 
