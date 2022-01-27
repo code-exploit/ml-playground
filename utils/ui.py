@@ -181,7 +181,7 @@ def footer():
     st.sidebar.markdown("---")
     st.sidebar.markdown(
         """
-        [<img src='data:image/png;base64,{}' class='img-fluid' width=25 height=25>](https://github.com/ranjan-das-cloud/macine-learning-playground) <small> Version 0.1.0 &copy;Ranjan Das | July 2021</small>""".format(
+        [<img src='data:image/png;base64,{}' class='img-fluid' width=25 height=25>](https://github.com/ranjan-das-cloud/machine-learning-playground) <small> Version 0.1.0 &copy;Ranjan Das | July 2021</small>""".format(
             img_to_bytes("./images/github.png")
         ),
         unsafe_allow_html=True,
